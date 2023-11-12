@@ -27,3 +27,5 @@ const binarySearch = (array, item) => {
 
 console.log(binarySearch(arr, 9));
 console.log('iteration count: ', count);
+
+// O(log2n)
