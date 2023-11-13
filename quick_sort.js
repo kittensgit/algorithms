@@ -25,3 +25,5 @@ const quickSort = (array) => {
 
 console.log(quickSort(arr));
 console.log('count: ', count);
+
+// O(nlogn)
